@@ -11,3 +11,6 @@
 ## 📸 واجهة النظام (System Interface)
 
 ![Decision Support System](images/System-Interface.png)
+## واجهة اتخاذ القرار 
+
+![Decision Support System](images/Decision-making-engine.png)
