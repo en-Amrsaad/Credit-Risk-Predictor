@@ -10,4 +10,4 @@
 
 ## 📸 واجهة النظام (System Interface)
 
-![Decision Support System](images/Decision-making-engine.png)
+![Decision Support System](images/System Interface.pn)
